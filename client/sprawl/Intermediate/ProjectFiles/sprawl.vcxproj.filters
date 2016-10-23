@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\sprawl.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{7E2EB9F0-4180-426B-8517-A5AB845904A8}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\sprawl.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\sprawlEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{E8EA3395-577A-4F92-8308-54850D8E4B53}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\sprawl">
+			<UniqueIdentifier>{914CBA6D-B4B9-4146-A457-7BE7EFDABE85}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\sprawl\sprawl.Build.cs">
+			<Filter>Source\sprawl</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\sprawl\sprawl.cpp">
+			<Filter>Source\sprawl</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\sprawl\sprawl.h">
+			<Filter>Source\sprawl</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\sprawl\sprawlGameMode.cpp">
+			<Filter>Source\sprawl</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\sprawl\sprawlGameMode.h">
+			<Filter>Source\sprawl</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+G:\sprawl\client\sprawl\Source\sprawl\sprawl.Build.cs
+G:\sprawl\client\sprawl\Source\sprawl.Target.cs
+G:\sprawl\client\sprawl\Source\sprawlEditor.Target.cs
